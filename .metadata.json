@@ -1,5 +1,9 @@
 [
   {
+    "package": "gofcat",
+    "oncran": true
+  },
+  {
     "package": "serp",
     "oncran": true
   }
